@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">旅馆业住宿信息采集</string>
+    <string name="title_activity_upload_info">UploadInfoActivity</string>
+</resources>
